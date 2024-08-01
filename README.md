@@ -5,4 +5,3 @@ This python program generates a random password containing alphanumericals and s
 1. PasswordGeneratorFunctions.py :- This file contains all the user defined to create a password like save(),generate(),display().etc..Thiis is required to run the file named PasswordGenerator.py.
 2. PasswordGenerator.py :- This file contains the code which imports the PassswordGeneratorFunctions.py and executes them.
 
-*Within the next 2 weeks i will reupload the code which makes use of MySQL to save and display the code
